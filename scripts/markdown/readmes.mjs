@@ -2,6 +2,7 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fetchWithAuth, fetchWithRetry } from '../utils/fetch.mjs';
 import cleanupMarkdown from './sanitize.mjs';
+import { toPublicLink } from '../../utils/helpers/urls.mjs';
 
 const parseNextLink = linkHeader =>
   linkHeader?.match(/<([^>]+)>;\s*rel="next"/)?.[1] ?? null;
@@ -74,7 +75,7 @@ const processRepos = async (repos, { label, basePath, outputDir }) => {
             label: 'Overview',
           },
           ...fetched.map(name => ({
-            link: `${basePath}/${name}`,
+            link: toPublicLink(name, basePath),
             label: name.replace(/-(?:webpack-)?(?:loader|plugin)$/, ''),
           })),
         ],
