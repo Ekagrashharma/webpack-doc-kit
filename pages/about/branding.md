@@ -19,10 +19,14 @@ Please use the **logo with text** whenever possible. The logo should be placed o
 
 ### Horizontal logo
 
+<div class="halfWidthTable">
+
 |                                                                                                          Light backgrounds                                                                                                           |                                                                                                                           Dark backgrounds                                                                                                                           |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                ![webpack horizontal logo for light backgrounds](https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/webpack/webpack-logo-horizontal-color.png)                                 |                           <span class="darkBg">![webpack horizontal logo for dark backgrounds](https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/webpack/webpack-logo-horizontal-color-dark_background.png)</span>                           |
 | [svg](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color.svg) \| [png](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color.png) | [svg](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color-dark_background.svg) \| [png](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color-dark_background.png) |
+
+</div>
 
 ### Stacked logo
 
