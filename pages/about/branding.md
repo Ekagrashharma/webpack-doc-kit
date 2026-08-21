@@ -26,8 +26,6 @@ Please use the **logo with text** whenever possible. The logo should be placed o
 |                                ![webpack horizontal logo for light backgrounds](https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/webpack/webpack-logo-horizontal-color.png)                                 |                           <span class="darkBg">![webpack horizontal logo for dark backgrounds](https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/webpack/webpack-logo-horizontal-color-dark_background.png)</span>                           |
 | [svg](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color.svg) \| [png](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color.png) | [svg](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color-dark_background.svg) \| [png](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-logo-horizontal-color-dark_background.png) |
 
-</div>
-
 ### Stacked logo
 
 |                                                                                                       Light backgrounds                                                                                                        |                                                                                                                        Dark backgrounds                                                                                                                        |
@@ -43,6 +41,8 @@ The icon is designed to be used in **layout-constrained areas only**. As previou
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           ![webpack icon](https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/webpack/webpack-icon-color.png)                                            |                         <div class="centerItem">![webpack hex sticker](https://raw.githubusercontent.com/openjs-foundation/artwork/main/projects/webpack/webpack-hex-sticker.png)</div>                          |
 | [svg](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-icon-color.svg) \| [png](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-icon-color.png) | [svg](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-hex-sticker.svg) \| [png](https://github.com/openjs-foundation/artwork/blob/main/projects/webpack/webpack-hex-sticker.png) |
+
+</div>
 
 ## Color Palette
 

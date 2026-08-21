@@ -38,10 +38,6 @@
   width: 50%;
 }
 
-td[data-label='Hex sticker'] {
-  width: 50%;
-}
-
 .centerItem img {
   display: block;
   margin: 0 auto;
